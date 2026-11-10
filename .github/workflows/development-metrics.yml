@@ -1,0 +1,25 @@
+name: Refresh development metrics
+on:
+  push:
+    paths:
+      - scripts/update-metrics.mjs
+      - .github/workflows/development-metrics.yml
+  schedule:
+    - cron: '23 5 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency: development-metrics
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: node scripts/update-metrics.mjs
+        env:
+          GH_TOKEN: ${{ github.token }}
+      - run: |
+          git add assets/development-metrics.svg
+          git diff --cached --quiet && exit 0
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Refresh development metrics'
+          git push
