@@ -3,7 +3,7 @@
   <img src="./assets/backend-header.svg" alt="Aditya Raj (Suryavanshi), Software Engineer — Java, Spring Boot and PostgreSQL" width="960">
 </picture>
 
-I build backend services, REST APIs, and database integrations. Based in Riga, Latvia.
+I build backend services, REST APIs, and database integrations.
 
 [Portfolio](https://aditya-portfolio-web-amber.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/aditya535/)
 
