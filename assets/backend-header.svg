@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="240" viewBox="0 0 960 240" role="img" aria-labelledby="title">
+<title id="title">Aditya Raj (Suryavanshi) — Software Engineer. Java, Spring Boot and PostgreSQL.</title>
+<defs><linearGradient id="bg"><stop stop-color="#111827"/><stop offset="1" stop-color="#172a42"/></linearGradient></defs>
+<rect width="960" height="240" rx="20" fill="url(#bg)"/>
+<path d="M45 45h32" stroke="#83bbff" stroke-width="3" stroke-linecap="round"/>
+<g font-family="system-ui, sans-serif">
+<text x="45" y="80" font-size="15" font-weight="600" letter-spacing="3" fill="#9ac8ff">SOFTWARE ENGINEER</text>
+<text x="43" y="133" font-size="43" font-weight="700" fill="#f1f5fb">Aditya Raj</text>
+<text x="45" y="164" font-size="20" fill="#c4d3e6">(Suryavanshi)</text>
+<text x="45" y="201" font-size="17" fill="#c4d3e6">Java · Spring Boot · PostgreSQL</text>
+</g>
+<g stroke="#779bc2" stroke-width="2" fill="#1c314c">
+<path d="M625 120h235" fill="none" stroke-dasharray="5 6"/>
+<rect x="593" y="88" width="64" height="64" rx="15"/>
+<rect x="707" y="88" width="64" height="64" rx="15"/>
+<rect x="821" y="88" width="64" height="64" rx="15"/>
+</g>
+<g stroke="#c9e2ff" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="m620 109-10 11 10 11m10-22 10 11-10 11"/>
+<path d="M728 112h22m-22 8h22m-22 8h22"/>
+<ellipse cx="853" cy="110" rx="13" ry="5"/><path d="M840 110v20c0 7 26 7 26 0v-20m-26 10c0 7 26 7 26 0"/>
+</g>
+<circle cx="674" cy="120" r="3.5" fill="#a1d5ff"><animate attributeName="cx" values="667;697;667" dur="4s" repeatCount="indefinite"/></circle>
+<circle cx="790" cy="120" r="3.5" fill="#a1d5ff"><animate attributeName="cx" values="781;811;781" dur="4s" begin="0.6s" repeatCount="indefinite"/></circle>
+</svg>

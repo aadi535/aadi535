@@ -1,14 +1,24 @@
-# Aditya Raj (Suryavanshi)
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/backend-header-static.svg">
+  <img src="./assets/backend-header.svg" alt="Aditya Raj (Suryavanshi), Software Engineer — Java, Spring Boot and PostgreSQL" width="960">
+</picture>
 
-Software engineer in Riga, Latvia. I build backend services with Java, Spring Boot, and PostgreSQL, with a focus on REST APIs and microservices.
+I build backend services, REST APIs, and database integrations. Based in Riga, Latvia.
 
 [Portfolio](https://aditya-portfolio-web-amber.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/aditya535/)
 
-### Currently building
+### ◇ Tech stack
 
-**⚡ Spark for Android** — I build Spring Boot APIs and PostgreSQL integration for an AI-powered learning app. [Explore the earlier web preview](https://spark-app-virid.vercel.app/).
+![Java, Spring Boot, PostgreSQL, Docker, Git and Python](https://skillicons.dev/icons?i=java,spring,postgres,docker,git,py)
 
-### Selected work
+### ▣ Featured work
 
-- **[Microservices E-Commerce](https://github.com/aadi535/aditya-sdk-ecommerce-new)** — A Java and Spring Boot order service that connects to other backend services through REST APIs and PostgreSQL.
-- **[SkyPath Flight Tracking](https://github.com/aadi535/SkyPath-Live-Flight-Tracking-made-by-Aditya)** — A Python and Flask flight map with a demo mode when live data is unavailable.
+| Project | What I built |
+| :--- | :--- |
+| **⚡ [Spark for Android](https://spark-app-virid.vercel.app/)** · Web preview | Spring Boot REST APIs and PostgreSQL integration for an AI-powered learning app. The link opens the earlier web preview. |
+| **[Microservices E-Commerce](https://github.com/aadi535/aditya-sdk-ecommerce-new)** | A Java order service that connects to other services through REST APIs and PostgreSQL. |
+| **[SkyPath Flight Tracking](https://github.com/aadi535/SkyPath-Live-Flight-Tracking-made-by-Aditya)** | A Flask flight map that switches to demo data when live data is unavailable. |
+
+### ◈ Development activity
+
+[View my GitHub contributions](https://github.com/aadi535#contribution-activity) · [Browse public repositories](https://github.com/aadi535?tab=repositories)
